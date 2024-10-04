@@ -1,6 +1,3 @@
-# SezarSec-Worker-Panel-
-A fork of Cloudflare's Worker Panels project. In line with the freedom of the Internet
-
 <h1 align="center">
   SezarSec Worker Panel
 </h1>
@@ -9,6 +6,9 @@ A fork of Cloudflare's Worker Panels project. In line with the freedom of the In
 Access xray (v2ray) configs using Cloudflare CDN.
 
 </h2>
+
+![Project Image](https://github.com/SezarSec/SezarSec-Worker-Panel/blob/main/assest/pic.png)
+
 
 ## Introduction
 🛑 Cloudflare offers the ability to run serverless configurations, while also enabling access to VPS configurations by routing traffic through its CDN. In this guide, we aim to demonstrate how to use SezarSec VPS configurations through Cloudflare's CDN.
