@@ -15,11 +15,17 @@ Access xray (v2ray) configs using Cloudflare CDN.
 
 ## Installation
 🔻1. Sign up or log in to Cloudflare (cloudflare.com), and ensure that you have verified your email.
+
 🔻2. Navigate to the `Workers and Pages` section, then create and name a new worker.
+
 🔻3. Click on `Edit Code` to access the code editing environment.
+
 🔻4. Download or Copy entire content the latest version of the [SezarSec Worker Panel script](https://github.com/SezarSec/SezarSec-Worker-Panel-/releases/tag/worker), and copy the entire content.
+
 🔻5. Paste the content of the script onto the mentioned step 3 javascript editing environment.
+
 🔻6. Click on `Deploy` in the top-right corner (you may need to press Ctrl+S to save first if the Deploy button is not active).
+
 🔻7. Your worker's subscription URL will follow this format: `https://{your_worker_address}.workers.dev/sub/{your_clean_ip}`
 
 
