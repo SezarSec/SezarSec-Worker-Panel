@@ -1,7 +1,7 @@
-// Developed by Surfboardv2ray, https://github.com/Surfboardv2ray/Trojan-worker
-// Version 1.2
+
+// Version 1.0.0
 // Tips: Change your subLinks accordingly. Note that only ws+tls+443 configs will work.
-// Your subscription link will be: 'https://{your_worker_address}.workers.dev/sub/{your_clean_ip}'
+
 
 
 const subLinks = [
