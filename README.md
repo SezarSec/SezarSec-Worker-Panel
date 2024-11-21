@@ -36,6 +36,7 @@ Access xray (v2ray) configs using Cloudflare CDN.
 
 ## Additional Notes
 〽️ The base worker URL can fetch clean IPs via [IRCF Space Repo](https://github.com/ircfspace/cf2dns/blob/master/list/ipv4.json), but it's still recommended to use [Scanners](https://ircf.space/scanner.html).
+❤️Forked version of Trojan Worker by Surfboardv2ray
 
 
 
