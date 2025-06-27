@@ -1,0 +1,8 @@
+[build]
+  functions = "netlify/functions"
+
+[[redirects]]
+  from = "/sub/*"
+  to = "/.netlify/functions/subscription-generator?ip=:splat"
+  status = 200
+  force = true
