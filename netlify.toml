@@ -6,3 +6,10 @@
   to = "/.netlify/functions/subscription-generator?ip=:splat"
   status = 200
   force = true
+
+# این ریدایرکت جدید برای مسیر روت (صفحه اصلی)
+[[redirects]]
+  from = "/"
+  to = "/.netlify/functions/subscription-generator"
+  status = 200
+  force = true
