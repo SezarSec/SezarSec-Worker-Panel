@@ -30,10 +30,15 @@ Access xray (v2ray) configs using Cloudflare CDN.
 
 ## Features
 〽️ Modern UI: A redesigned, user-friendly management panel.
+
 〽️ Multi-Protocol Support: Works with VLESS, VMess, and Trojan protocols.
+
 〽️ gRPC & WebSocket: Supports both gRPC and WS transmissions.
+
 〽️ Custom Port Selection: Allows you to filter configs by your desired ports.
+
 〽️ Smart IP Scanner: A built-in tool to live-scan Cloudflare IPs and find the one with the lowest latency.
+
 〽️ Server Health Check: An optional feature to verify that config servers are online.
 
 ## How to Use
