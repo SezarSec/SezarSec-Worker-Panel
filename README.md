@@ -28,7 +28,7 @@ Access xray (v2ray) configs using Cloudflare CDN.
 
 🔻7. Your worker's subscription URL will follow this format: `https://{your_worker_address}.workers.dev/sub/{your_clean_ip}`
 
-##Features
+## Features
 〽️ Modern UI: A redesigned, user-friendly management panel.
 〽️ Multi-Protocol Support: Works with VLESS, VMess, and Trojan protocols.
 〽️ gRPC & WebSocket: Supports both gRPC and WS transmissions.
@@ -36,7 +36,7 @@ Access xray (v2ray) configs using Cloudflare CDN.
 〽️ Smart IP Scanner: A built-in tool to live-scan Cloudflare IPs and find the one with the lowest latency.
 〽️ Server Health Check: An optional feature to verify that config servers are online.
 
-##How to Use
+## How to Use
 〽️ After deployment, access the management panel by navigating to your worker's main URL.
 
 〽️ Quick Method: Click the "Get Quick Link" button to instantly generate a subscription link using a randomly selected clean IP.
@@ -45,7 +45,7 @@ Access xray (v2ray) configs using Cloudflare CDN.
 
 〽️ The final subscription URL will follow this format: https://{your_worker_address}.workers.dev/sub/{your_clean_ip}. Add this URL to your client.
 
-##Customization
+## Customization
 〽️ You can easily add or modify the subscription source links by editing the subLinks section at the beginning of the script. Both standard and Base64-encoded links are supported.
 
 ## Additional Notes
