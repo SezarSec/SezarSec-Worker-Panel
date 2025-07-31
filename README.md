@@ -7,7 +7,7 @@ Access xray (v2ray) configs using Cloudflare CDN.
 
 </h2>
 
-![Project Image](https://github.com/SezarSec/SezarSec-Worker-Panel/blob/main/assest/pic.png)
+![Project Image](https://github.com/SezarSec/SezarSec-Worker-Panel/blob/main/assest/pic-new.png)
 
 
 ## Introduction
